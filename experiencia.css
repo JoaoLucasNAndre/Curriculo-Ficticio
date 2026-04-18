@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(38, 0, 33);
+    width: 80%;
+    margin: 0 auto;
+    padding: 2% 0;
+}
+
+img:hover {
+    border-radius: 25px;
+    transform: scale(1.03);
+    box-shadow: 0 0 30px rgb(117, 38, 124);
+}
+
+img {
+    border-radius: 25px;
+}
+
+main {
+    padding: 25px;
+    border-radius: 15px;
+    background-color: rgb(0, 0, 0);
+    width: 1200px;
+    height: 290px;
+}
+
+h1 {
+    color: rgb(246, 207, 255);
+    padding-left: 28px;
+
+}
+
+h2 {
+
+    padding: 20px;
+    color: rgb(195, 155, 207);
+}
+
+h3 {
+    padding: 20px;
+    color: rgb(178, 132, 192);
+}
+
+h4 {
+    padding: 35px;
+    color: rgb(198, 160, 199);
+
+}
+
+div {
+    border: 2px solid rgb(157, 0, 255);
+    border-radius: 35px;
+
+}
+
+div:hover {
+    box-shadow: 0 0 30px rgb(242, 0, 255);
+    border-radius: 35px;
+    transform: scale(1.04);
+}
+
+.link {
+    padding: 30px;
+    color: rgb(158, 123, 168);
+}
