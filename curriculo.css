@@ -9,6 +9,7 @@ img:hover {
     border-radius: 25px;
     transform: scale(1.04);
     box-shadow: 0 0 30px rgb(201, 50, 214);
+    transition: all ease 0.5s;
 }
 
 img {
@@ -52,6 +53,7 @@ div:hover {
     transform: scale(1.04);
     border-radius: 35px;
     box-shadow: 0 0 30px rgb(242, 0, 255);
+    transition: all ease 0.5s;
 
 }
 
